@@ -8520,7 +8520,7 @@
             "Ext": "お年寄り",
             "Type": "名",
             "Meaning": "老年人",
-            "Time": 8.62
+            "Time": 8.64
         },
         {
             "Voc": "ラジオたいそう",
@@ -8548,14 +8548,14 @@
             "Ext": "",
             "Type": "名",
             "Meaning": "篮球",
-            "Time": 14.99
+            "Time": 15.02
         },
         {
             "Voc": "スポ-ツセンタ-",
             "Ext": "",
             "Type": "名",
             "Meaning": "体育中心",
-            "Time": 16.84
+            "Time": 16.87
         },
         {
             "Voc": "にゅうえんりょう",
@@ -8569,287 +8569,287 @@
             "Ext": "有料",
             "Type": "名",
             "Meaning": "收费",
-            "Time": 20.32
+            "Time": 20.34
         },
         {
             "Voc": "しょう",
             "Ext": "賞",
             "Type": "名",
             "Meaning": "奖",
-            "Time": 21.73
+            "Time": 21.76
         },
         {
             "Voc": "きょく",
             "Ext": "曲",
             "Type": "名",
             "Meaning": "乐曲，歌曲",
-            "Time": 22.75
+            "Time": 22.77
         },
         {
             "Voc": "し",
             "Ext": "詩",
             "Type": "名",
             "Meaning": "诗歌",
-            "Time": 23.85
+            "Time": 23.87
         },
         {
             "Voc": "しんごう",
             "Ext": "信号",
             "Type": "名",
             "Meaning": "信号，红绿灯",
-            "Time": 24.71
+            "Time": 24.73
         },
         {
             "Voc": "はさみ",
             "Ext": "",
             "Type": "名",
             "Meaning": "剪刀",
-            "Time": 26.25
+            "Time": 26.27
         },
         {
             "Voc": "ぶひん",
             "Ext": "部品",
             "Type": "名",
             "Meaning": "零部件",
-            "Time": 27.37
+            "Time": 27.4
         },
         {
             "Voc": "アルバイト",
             "Ext": "",
             "Type": "名",
             "Meaning": "打工，副业，工读",
-            "Time": 28.6
+            "Time": 28.63
         },
         {
             "Voc": "スピ-チ",
             "Ext": "",
             "Type": "名",
             "Meaning": "演说，演讲",
-            "Time": 30.09
+            "Time": 30.11
         },
         {
             "Voc": "グラフ",
             "Ext": "",
             "Type": "名",
             "Meaning": "图表",
-            "Time": 31.86
+            "Time": 31.89
         },
         {
             "Voc": "きかく",
             "Ext": "企画",
             "Type": "名",
             "Meaning": "策划，计划",
-            "Time": 33.14
+            "Time": 33.17
         },
         {
             "Voc": "せつめい",
             "Ext": "説明",
             "Type": "名",
             "Meaning": "说明",
-            "Time": 34.45
+            "Time": 34.48
         },
         {
             "Voc": "ごはん",
             "Ext": "ご飯",
             "Type": "名",
             "Meaning": "饭",
-            "Time": 35.78
+            "Time": 35.81
         },
         {
             "Voc": "さとう",
             "Ext": "砂糖",
             "Type": "名",
             "Meaning": "砂糖",
-            "Time": 36.91
+            "Time": 36.96
         },
         {
             "Voc": "かいがいりょこう",
             "Ext": "海外旅行",
             "Type": "名",
             "Meaning": "海外旅行",
-            "Time": 38.13
+            "Time": 38.16
         },
         {
             "Voc": "こと",
             "Ext": "",
             "Type": "名",
             "Meaning": "事情",
-            "Time": 39.94
+            "Time": 39.99
         },
         {
             "Voc": "おじいさん",
             "Ext": "",
             "Type": "代",
             "Meaning": "爷爷；老大爷",
-            "Time": 41.01
+            "Time": 41.03
         },
         {
             "Voc": "おばあさん",
             "Ext": "",
             "Type": "代",
             "Meaning": "奶奶；老奶奶",
-            "Time": 42.44
+            "Time": 42.5
         },
         {
             "Voc": "あね",
             "Ext": "姉",
             "Type": "代",
             "Meaning": "姐姐",
-            "Time": 43.91
+            "Time": 43.96
         },
         {
             "Voc": "かよいます",
             "Ext": "通います",
             "Type": "动1",
             "Meaning": "上学，来往",
-            "Time": 44.95
+            "Time": 45
         },
         {
             "Voc": "あつまります",
             "Ext": "集まります",
             "Type": "动1",
             "Meaning": "聚，集合",
-            "Time": 46.42
+            "Time": 46.47
         },
         {
             "Voc": "おどります",
             "Ext": "踊ります",
             "Type": "动1",
             "Meaning": "跳舞",
-            "Time": 48.06
+            "Time": 48.11
         },
         {
             "Voc": "いります",
             "Ext": "要ります",
             "Type": "动1",
             "Meaning": "要",
-            "Time": 49.45
+            "Time": 49.52
         },
         {
             "Voc": "こまります",
             "Ext": "困ります",
             "Type": "动1",
             "Meaning": "为难，难办",
-            "Time": 50.83
+            "Time": 50.91
         },
         {
             "Voc": "たたきます",
             "Ext": "",
             "Type": "动1",
             "Meaning": "拍，敲，打",
-            "Time": 52.34
+            "Time": 52.29
         },
         {
             "Voc": "いれます",
             "Ext": "入れます",
             "Type": "动2",
             "Meaning": "放入，放进",
-            "Time": 53.68
+            "Time": 53.83
         },
         {
             "Voc": "かんびょうします",
             "Ext": "看病～",
             "Type": "动3",
             "Meaning": "护理",
-            "Time": 55.45
+            "Time": 55.17
         },
         {
             "Voc": "けんかします",
             "Ext": "",
             "Type": "动3",
             "Meaning": "吵架，打架",
-            "Time": 57.07
+            "Time": 56.94
         },
         {
             "Voc": "りようします",
             "Ext": "利用～",
             "Type": "动3",
             "Meaning": "利用",
-            "Time": 58.74
+            "Time": 58.56
         },
         {
             "Voc": "そうだんします",
             "Ext": "そうだん～",
             "Type": "动3",
             "Meaning": "商谈",
-            "Time": 60.5
+            "Time": 60.21
         },
         {
             "Voc": "ほかに",
             "Ext": "",
             "Type": "副",
             "Meaning": "另外",
-            "Time": 61.67
+            "Time": 61.98
         },
         {
             "Voc": "しばらく",
             "Ext": "",
             "Type": "副",
             "Meaning": "许久，好久；片刻",
-            "Time": 62.92
+            "Time": 63.16
         },
         {
             "Voc": "へえ",
             "Ext": "",
             "Type": "叹",
             "Meaning": "哎，哎呀，哎哟",
-            "Time": 64.28
+            "Time": 64.41
         },
         {
             "Voc": "きのした",
             "Ext": "木下",
             "Type": "专",
             "Meaning": "木下",
-            "Time": 65.41
+            "Time": 65.75
         },
         {
             "Voc": "たむら",
             "Ext": "田村",
             "Type": "专",
             "Meaning": "田村",
-            "Time": 66.5
+            "Time": 66.9
         },
         {
             "Voc": "このまえ",
             "Ext": "この前",
             "Type": "",
             "Meaning": "前几天，之前，最近",
-            "Time": 67.7
+            "Time": 67.99
         },
         {
             "Voc": "そういえば",
             "Ext": "そう言えば",
             "Type": "",
             "Meaning": "说起来，这么说来",
-            "Time": 69.09
+            "Time": 69.19
         },
         {
             "Voc": "きがつきます",
             "Ext": "気がつきます",
             "Type": "",
             "Meaning": "察觉",
-            "Time": 70.63
+            "Time": 70.58
         },
         {
             "Voc": "しばらくです",
             "Ext": "",
             "Type": "",
             "Meaning": "好久不见",
-            "Time": 72.28
+            "Time": 72.12
         },
         {
             "Voc": "～行（い）き",
             "Ext": "",
             "Type": "",
             "Meaning": "",
-            "Time": 73.32
+            "Time": 73.77
         },
         {
             "Voc": "～便（びん）",
             "Ext": "",
             "Type": "",
             "Meaning": "",
-            "Time": 74.31
+            "Time": 74.81
         }
     ],
     [
